@@ -4,6 +4,7 @@ I am a student at Indiana University Bloomington pursuing my Bachelors of Scienc
 I am currently seeking out any internship opportunities for the summer and fall of 2025 as well as the winter and spring of 2026.
 I hope to continue to grow and learn through an internship in the field of software development.
 I enjoy spending time writing code, learning new technologies, and developing my technical skills.
+Expected graduation date is May of 2026.
 
 ## 🔭 I’m currently working on:
 - Improving my understanding of object oriened design patterns through course work and implementation
@@ -28,7 +29,7 @@ I am actively developing new technical skills and applications every day!
 ## 📫 How to get in touch: 
 - Email: [fritschlandon@yahoo.com](mailto:fritschlandon@yahoo.com)
 - LinkedIn: [linkedin.com/in/LandonFritsch](https://www.linkedin.com/in/landon-fritsch)
-- Cell Phone Number: [812-525-8302]
+- Cell Phone Number: 812-525-8302
 
 ## 💬 About me:
 - Enjoy spending free time playing video games and being active in the gym or on the basketball court
