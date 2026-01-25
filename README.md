@@ -1,41 +1,34 @@
-# Hi there 👋 I'm Landon Fritsch
+# Hi, I’m Landon Fritsch 👋
 
-I am a student at Indiana University Bloomington pursuing my Bachelors of Science in Computer Science. 
-I am currently seeking out any internship opportunities for the summer and fall of 2025 as well as the winter and spring of 2026.
-I hope to continue to grow and learn through an internship in the field of software development.
-I enjoy spending time writing code, learning new technologies, and developing my technical skills.
-Expected graduation date is May of 2026.
+I’m a Computer Science student at Indiana University Bloomington graduating in May 2026, focused on building practical, real-world software systems. I’m especially interested in backend development, mobile applications, and designing clean, maintainable code.
 
-## 🔭 I’m currently working on:
-- Improving my understanding of object oriened design patterns through course work and implementation
-- Actively learning data structures and algorithms through course work, implementation, and self-study.
-- Learning the basics surrounding SQL for managing and manipulating data.
+I enjoy working on projects that involve real data, clear architecture, and solving problems end-to-end — from design to implementation.
 
-## 🔧 Technologies & Tools:
-I am actively developing new technical skills and applications every day!
+---
 
-- **Languages**: Python, Java, JavaScript, SQL, Kotlin
-- **Web Development**: HTML, CSS, JavaScript
-- **Databases**: MySQL
-- **Version Control**: Git, GitHub
-- **Application Development**: Android Studio 
+## 🛠 What I’m Working On
+- Building backend services with clean APIs and persistent data storage  
+- Developing mobile applications that consume real APIs  
+- Strengthening system design, object-oriented principles, and scalability fundamentals  
 
-## 🌱 I’m currently learning:
-- Data Structures and Algorithms with Java
-- Object Oriented Design Patterns with Java
-- Continous questions with LeetCode to improve overall programming understanding
-- Spending my free time to understand and develop new technical skills and languages
+---
 
-## 📫 How to get in touch: 
-- Email: [fritschlandon@yahoo.com](mailto:fritschlandon@yahoo.com)
-- LinkedIn: [linkedin.com/in/LandonFritsch](https://www.linkedin.com/in/landon-fritsch)
-- Cell Phone Number: 812-525-8302
+## 💻 Tech Stack
+- **Languages:** Java, Python, JavaScript, Kotlin, SQL  
+- **Backend / APIs:** RESTful services, authentication, data modeling  
+- **Databases:** MySQL  
+- **Mobile:** Android (Kotlin, Jetpack Compose)  
+- **Tools:** Git, GitHub, Android Studio  
 
-## 💬 About me:
-- Enjoy spending free time playing video games and being active in the gym or on the basketball court
-- Spend time learning new coding technologies and improving my knowledge in different areas through YouTube and coding challenges
-- Develop my skills with peers at Indiana University to improve team skills and communication
+---
 
+## 📌 Featured Projects
+> Pinned repositories below showcase projects I’ve built or am actively developing.  
+Each project includes a README explaining the problem, architecture, and key technical decisions.
 
-## Thank you!
+---
+
+## 📫 Connect With Me
+- **Email:** fritschlandon@yahoo.com  
+- **LinkedIn:** https://www.linkedin.com/in/landon-fritsch  
 
