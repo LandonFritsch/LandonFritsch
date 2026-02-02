@@ -1,34 +1,23 @@
 # Hi, I’m Landon Fritsch 👋
 
-I’m a Computer Science student at Indiana University Bloomington graduating in May 2026, focused on building practical, real-world software systems. I’m especially interested in backend development, mobile applications, and designing clean, maintainable code.
-
-I enjoy working on projects that involve real data, clear architecture, and solving problems end-to-end — from design to implementation.
-
----
-
-## 🛠 What I’m Working On
-- Building backend services with clean APIs and persistent data storage  
-- Developing mobile applications that consume real APIs  
-- Strengthening system design, object-oriented principles, and scalability fundamentals  
-
----
-
-## 💻 Tech Stack
-- **Languages:** Java, Python, JavaScript, Kotlin, SQL  
-- **Backend / APIs:** RESTful services, authentication, data modeling  
-- **Databases:** MySQL  
-- **Mobile:** Android (Kotlin, Jetpack Compose)  
-- **Tools:** Git, GitHub, Android Studio  
+I’m a Computer Science student at Indiana University Bloomington (graduating May 2026) with a strong interest in building real-world software systems and products. I actively create and explore projects driven by curiosity and enjoyment, with a particular passion for **sports** and technology. I’m currently **open to work** and seeking software engineering opportunities across backend, full-stack, and product-focused roles.
 
 ---
 
 ## 📌 Featured Projects
-> Pinned repositories below showcase projects I’ve built or am actively developing.  
-Each project includes a README explaining the problem, architecture, and key technical decisions.
+Pinned repositories below highlight projects I’ve built or am actively developing.  
+Each project includes a detailed README covering goals, architecture, and implementation.
+
+- **Bet Tracker API** — Java & Spring Boot backend for tracking and managing sports bets  
+- More projects coming soon 🚀
 
 ---
 
-## 📫 Connect With Me
+## 🔮 What’s Next
+I’m continuing to expand existing projects and plan to build additional applications centered around my love for sports — focusing on data-driven features, scalable systems, and user-focused product design.
+
+---
+
+## 📫 Stay in Touch
 - **Email:** fritschlandon@yahoo.com  
 - **LinkedIn:** https://www.linkedin.com/in/landon-fritsch  
-
