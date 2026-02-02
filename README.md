@@ -5,10 +5,9 @@ I’m a Computer Science student at Indiana University Bloomington (graduating M
 ---
 
 ## 📌 Featured Projects
-Pinned repositories below highlight projects I’ve built or am actively developing.  
-Each project includes a detailed README covering goals, architecture, and implementation.
+Click a project below to view the repository and full README.
 
-- **Bet Tracker API** — Java & Spring Boot backend for tracking and managing sports bets  
+- **[Bet Tracker API](https://github.com/LandonFritsch/bet-tracker-api)** — Java & Spring Boot backend for tracking and managing sports bets  
 - More projects coming soon 🚀
 
 ---
